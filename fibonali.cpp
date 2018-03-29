@@ -28,7 +28,7 @@ int main() {
     
   	}
   	
-	int total = suma( x[]);
+	int total = suma( );
     printf("la suma del array es   %d \n",total);
    
 	return 0 ;  	

@@ -1,5 +1,5 @@
- 	int x[]={};
+
   
- int suma(int array[]={}){
+ int suma(){
     
 }
